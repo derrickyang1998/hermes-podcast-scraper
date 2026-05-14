@@ -1,0 +1,63 @@
+name: 📺 每日 YouTube 播客抓取
+
+on:
+  schedule:
+    # 每天 UTC 凌晨 2 点运行（北京时间早上 10 点）
+    - cron: '0 2 * * *'
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ 检出仓库
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 📦 安装依赖
+        run: |
+          pip install --quiet yt-dlp
+          # Install deno for YouTube JS challenge solving
+          curl -fsSL https://deno.land/install.sh | sh
+          echo "$HOME/.deno/bin" >> $GITHUB_PATH
+
+      - name: 🎬 运行播客抓取
+        id: scrape
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          echo "$YT_COOKIES" > cookies.txt
+          # If cookies are empty/minimal, remove the file so yt-dlp works without it
+          if [ "$(wc -c < cookies.txt)" -lt 100 ]; then
+            echo "⚠️ Cookies too small, running without auth"
+            rm cookies.txt
+          fi
+          python scripts/YouTube/scraper.py 2>&1 | tee output.log
+          echo "count=$(grep -c '✅ 已保存' output.log || true)" >> $GITHUB_OUTPUT
+
+      - name: 📝 提交并推送更改
+        run: |
+          git config user.name "YouTube Scraper Bot"
+          git config user.email "bot@derrickyang1998.github.com"
+          git add -A
+          # 只在有变更时提交
+          if ! git diff --cached --quiet; then
+            git commit -m "📺 每日播客抓取 $(date '+%Y-%m-%d')"
+            git push
+            echo "✅ 已推送 ${{ steps.scrape.outputs.count }} 个新视频"
+          else
+            echo "ℹ️ 无新视频，跳过提交"
+          fi

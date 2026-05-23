@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-05-22T06:04:50.094215
+运行时间: 2026-05-23T05:37:40.840616
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 46 个
+已处理视频: 48 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,25 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 2 个
+📊 本次待处理新视频: 1 个
 
-📹 [ad2i8ZgS2aE] What's your brand story? | Jeff Freedman | TEDxBeaconStreet
-   频道: TEDx Talks | 播放: 128091
+📹 [-tsoA_YZs8U] 做生意资金不够，这四种渠道能帮你#商业模式 #商业思维 #老板
+   频道: 商悟商学院 | 播放: 672
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-22 What's your brand story? | Jeff Freedman | TEDxBeaconStreet.md
+  ✅ 已保存: wiki/来源/播客/2026-05-23 做生意资金不够，这四种渠道能帮你#商业模式 #商业思维 #老板.md
 
-📹 [JYCkOIAVYCs] Copy This Marketing Strategy It'll Blow Up Your Business
-   频道: Adam Erhart | 播放: 43370
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-22 Copy This Marketing Strategy It'll Blow Up Your Business.md
-
-✅ 完成！成功处理 2/2 个视频
-   累计已处理: 48 个
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 49 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-05-24T05:59:41.724287
+运行时间: 2026-05-25T06:25:37.350824
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 49 个
+已处理视频: 51 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -27,23 +27,23 @@ YouTube Podcast Scraper v1.0
 
 📊 本次待处理新视频: 2 个
 
-📹 [HW0qQ1z6rks] MARKETING UNIVERSITY | VOL. 1 | MARKETING STRATEGIES TO GROW YOUR BEAUTY BUSINESS🤍
-   频道: OfficialJoydan | 播放: 15467
+📹 [tqC1WwWKtfE] Unlocking Leadership with Simon Sinek: The Infinite Mindset | Full Conversation
+   频道: Simon Sinek | 播放: 570901
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-24 MARKETING UNIVERSITY | VOL. 1 | MARKETING STRATEGIES TO GROW.md
+  ✅ 已保存: wiki/来源/播客/2026-05-25 Unlocking Leadership with Simon Sinek: The Infinite Mindset .md
 
-📹 [Rb4yP4mJ7l0] 刘丰老师、春涛 | 共振密码对话 第一讲 ----《人类演化的大叙事》
-   频道: 刘丰老师海外频道（理论内容发布） | 播放: 1420
+📹 [PXfQ7_xxHkw] 电商品牌广告是在浪费钱？可为什么大品牌都在做Branding？ ｜ 电商广告 品牌建设 Branding 跨境电商 独立站 #电商广告 #品牌建设 #Branding #跨境电商 #独立站
+   频道: 咔咔的老吴 | 播放: 497
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-24 刘丰老师、春涛 | 共振密码对话 第一讲 ----《人类演化的大叙事》.md
+  ✅ 已保存: wiki/来源/播客/2026-05-25 电商品牌广告是在浪费钱？可为什么大品牌都在做Branding？ ｜ 电商广告 品牌建设 Branding 跨境电商 独立.md
 
 ✅ 完成！成功处理 2/2 个视频
-   累计已处理: 51 个
+   累计已处理: 53 个

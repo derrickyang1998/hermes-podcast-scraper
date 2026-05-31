@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-05-30T05:46:08.516586
+运行时间: 2026-05-31T06:16:02.340449
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 62 个
+已处理视频: 65 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -27,32 +27,32 @@ YouTube Podcast Scraper v1.0
 
 📊 本次待处理新视频: 3 个
 
-📹 [t9xkpeRgVy8] HG Podcast: Finding Entrepreneurial Success Without Building a Company from Scratch - CrocodileCloth
-   频道: Harvest Growth Video Marketing | 播放: 4522
+📹 [vCIu7Ja_TE0] Simon Sinek's Advice Will Leave You SPEECHLESS 2.0 (MUST WATCH)
+   频道: Alpha Mentors | 播放: 10520278
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-30 HG Podcast: Finding Entrepreneurial Success Without Building.md
+  ✅ 已保存: wiki/来源/播客/2026-05-31 Simon Sinek's Advice Will Leave You SPEECHLESS 2.0 (MUST WAT.md
 
-📹 [bBU9hSSrY-c] Brand Building Process with Peter Wilken (Video Podcast)
-   频道: Arek Dvornechuck | 播放: 1797
+📹 [wNnU2BJILPA] How One of NYC’s Fastest-Growing Startups Scaled to $5 Billion
+   频道: The Science of Scaling | 播放: 153557
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-30 Brand Building Process with Peter Wilken (Video Podcast).md
+  ✅ 已保存: wiki/来源/播客/2026-05-31 How One of NYC’s Fastest-Growing Startups Scaled to $5 Billi.md
 
-📹 [hz2WECYL0Rc] Strategic Planning To Build A Brand | The Marketin Podcast
-   频道: MarketinCrew | 播放: 68
+📹 [UskG8IO1rcg] Scaling Startups: Challenges, Management & The Role of AI | Scale Like a CEO
+   频道: Performance Accelerated Learning | 播放: 24
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-05-30 Strategic Planning To Build A Brand | The Marketin Podcast.md
+  ✅ 已保存: wiki/来源/播客/2026-05-31 Scaling Startups: Challenges, Management & The Role of AI | .md
 
 ✅ 完成！成功处理 3/3 个视频
-   累计已处理: 65 个
+   累计已处理: 68 个

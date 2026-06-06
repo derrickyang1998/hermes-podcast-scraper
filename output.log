@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-06-05T06:20:11.363139
+运行时间: 2026-06-06T05:52:18.733517
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 73 个
+已处理视频: 76 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,34 +25,25 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 3 个
+📊 本次待处理新视频: 2 个
 
-📹 [zFHzTy7XLbM] How to Build a Remarkable Brand in the Age of AI | Seth Godin
-   频道: The Entrepreneur's Studio | 播放: 200879
+📹 [q8d9uuO1Cf4] Value Props: Create a Product People Will Actually Buy
+   频道: Harvard Innovation Labs | 播放: 3052339
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-06-05 How to Build a Remarkable Brand in the Age of AI | Seth Godi.md
+  ✅ 已保存: wiki/来源/播客/2026-06-06 Value Props: Create a Product People Will Actually Buy.md
 
-📹 [Hl5wa-TcMc4] 營收成長了，為什麼利潤沒有跟著成長？前台灣飛利浦董事長 #陳百州：真正的策略，要從損益表看起【領導影響力學院✕對話領導力】EP33
-   频道: 領導影響力學院 | 播放: 33
+📹 [VQM3DrnVTcs] $100M CEO Explains How to Build A Brand in 2024
+   频道: Alex Hormozi | 播放: 1526042
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-06-05 營收成長了，為什麼利潤沒有跟著成長？前台灣飛利浦董事長 #陳百州：真正的策略，要從損益表看起【領導影響力學院✕對話領導力.md
+  ✅ 已保存: wiki/来源/播客/2026-06-06 $100M CEO Explains How to Build A Brand in 2024.md
 
-📹 [xXk768Fe064] Business Story of the Week 24/7 Live: Entrepreneurial Insights & Growth Mindset
-   频道: Business Story of the Week | 播放: 0
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-06-05 Business Story of the Week 24/7 Live: Entrepreneurial Insigh.md
-
-✅ 完成！成功处理 3/3 个视频
-   累计已处理: 76 个
+✅ 完成！成功处理 2/2 个视频
+   累计已处理: 78 个

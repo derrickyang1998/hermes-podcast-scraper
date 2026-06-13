@@ -1,5 +1,5 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-06-12T06:39:09.339764
+运行时间: 2026-06-13T06:14:30.549723
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
 已处理视频: 84 个
@@ -25,7 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 0 个
+📊 本次待处理新视频: 1 个
 
-✅ 完成！成功处理 0/0 个视频
-   累计已处理: 84 个
+📹 [BWz9p0x26ME] Simplify to Scale | Jon McNeill | TEDxBeaconStreet
+   频道: TEDx Talks | 播放: 15709
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-06-13 Simplify to Scale | Jon McNeill | TEDxBeaconStreet.md
+
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 85 个

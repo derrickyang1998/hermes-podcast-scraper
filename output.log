@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-06-14T06:38:14.475533
+运行时间: 2026-06-15T07:17:25.217185
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 85 个
+已处理视频: 88 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,34 +25,7 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 3 个
+📊 本次待处理新视频: 0 个
 
-📹 [6UwSA6aeMHM] 对话陈沛
-   频道: 刘丰老师海外频道（理论内容发布） | 播放: 338
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-06-14 对话陈沛.md
-
-📹 [fXYeSLkHqlg] 刘丰老师对话韩清宽（上）
-   频道: 刘丰老师海外频道（理论内容发布） | 播放: 200
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-06-14 刘丰老师对话韩清宽（上）.md
-
-📹 [zfuFUMq6LrI] 突破性营销策略！如何提升全球曝光度与品牌影响力
-   频道: TNT Data Screening  | 播放: 44
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-06-14 突破性营销策略！如何提升全球曝光度与品牌影响力.md
-
-✅ 完成！成功处理 3/3 个视频
+✅ 完成！成功处理 0/0 个视频
    累计已处理: 88 个

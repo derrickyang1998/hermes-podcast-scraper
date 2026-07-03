@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-07-02T05:56:43.040631
+运行时间: 2026-07-03T05:51:04.563337
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 102 个
+已处理视频: 103 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,25 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 2 个
 
-📹 [MpftE7RwQnM] How I Started The UK's Fastest Growing Company: My Gymshark Story | Ben Francis
-   频道: Ben Francis  | 播放: 3204036
+📹 [iuYlGRnC7J8] A Plan Is Not a Strategy
+   频道: Harvard Business Review | 播放: 6632139
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-02 How I Started The UK's Fastest Growing Company: My Gymshark .md
+  ✅ 已保存: wiki/来源/播客/2026-07-03 A Plan Is Not a Strategy.md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 103 个
+📹 [5pJIbhziKjU] Fortescue CEO: A Mining Giant on a Mission to Change the World | Podcast | In Good Company
+   频道: Norges Bank Investment Management | 播放: 6552
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-03 Fortescue CEO: A Mining Giant on a Mission to Change the Wor.md
+
+✅ 完成！成功处理 2/2 个视频
+   累计已处理: 105 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-07-06T06:25:46.956080
+运行时间: 2026-07-07T06:05:18.722933
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 109 个
+已处理视频: 110 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,25 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 2 个
 
-📹 [3O0VkZur1AQ] Personal Branding Tips for CEO, Entrepreneurs & Experts | by Thangavel Puhal | DigiNadu.com
-   频道: DigiNadu | 播放: 469
+📹 [RfM77FU0n2c] 《生命·觉者》梁冬对话刘丰【全集】
+   频道: 刘丰老师海外频道（理论内容发布） | 播放: 64009
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-06 Personal Branding Tips for CEO, Entrepreneurs & Experts | by.md
+  ✅ 已保存: wiki/来源/播客/2026-07-07 《生命·觉者》梁冬对话刘丰【全集】.md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 110 个
+📹 [0rZBYA-8_qQ] The Career Mistake Most Executives Don't Realize They're Making
+   频道: Brandville Group | 播放: 524
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-07 The Career Mistake Most Executives Don't Realize They're Mak.md
+
+✅ 完成！成功处理 2/2 个视频
+   累计已处理: 112 个

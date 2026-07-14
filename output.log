@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-07-13T05:34:32.409256
+运行时间: 2026-07-14T04:48:49.475316
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 120 个
+已处理视频: 121 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,34 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 3 个
 
-📹 [3rWvI0iEYn8] 赚钱的本质 | 弄懂這个规则成功也只是时间问题#创业 #生意思维 #商业思维 #赚钱思维
-   频道: 晓邦在做事 | 播放: 19
+📹 [uot68DXCX-w] The 2 reasons all startups fail | Misti Cain | TEDxSanDiego
+   频道: TEDx Talks | 播放: 95975
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-13 赚钱的本质 | 弄懂這个规则成功也只是时间问题#创业 #生意思维 #商业思维 #赚钱思维.md
+  ✅ 已保存: wiki/来源/播客/2026-07-14 The 2 reasons all startups fail | Misti Cain | TEDxSanDiego.md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 121 个
+📹 [2GlzdLFvcL8] FIND YOUR FLOW! Lululemon's Founder on Building A Billion Dollar Brand
+   频道: Tony Robbins | 播放: 57541
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-14 FIND YOUR FLOW! Lululemon's Founder on Building A Billion Do.md
+
+📹 [h4P0Bx0uoWk] How to Build a Global Brand: A Story from the Founder of Reebok | Brands Through Stories
+   频道: Mastervision® Podcast by Nina Seredai | 播放: 26252
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-14 How to Build a Global Brand: A Story from the Founder of Ree.md
+
+✅ 完成！成功处理 3/3 个视频
+   累计已处理: 124 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-07-18T04:47:03.675281
+运行时间: 2026-07-19T05:19:30.310580
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 126 个
+已处理视频: 129 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,34 +25,43 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 3 个
+📊 本次待处理新视频: 4 个
 
-📹 [zuRYYA8mCFE] 从渔村长大到60家店，净赚9位数 ► 他做对了什么？- 1 Doc International 创办人Dr Michael Ong
-   频道: 后起之秀 Rising Podcast | 播放: 2394
+📹 [rzbXht7MJVM] How to create a great brand name | Jonathan Bell
+   频道: TED Archive | 播放: 3450780
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  yt-dlp ERROR: WARNING: [youtube] rzbXht7MJVM: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-18 从渔村长大到60家店，净赚9位数 ► 他做对了什么？- 1 Doc International 创办人Dr Michae.md
+  ✅ 已保存: wiki/来源/播客/2026-07-19 How to create a great brand name | Jonathan Bell.md
 
-📹 [98PeSG4FttA] 第44期 高效营销布局不可或缺的3大营销领域 产品vs品牌vs增长
-   频道: 南洋大师兄 | 播放: 93
+📹 [4CUqeauH3-4] 一个人年入千万，AI创业的十个步骤
+   频道: 程前朋友圈 | 播放: 252343
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  yt-dlp ERROR: WARNING: [youtube] 4CUqeauH3-4: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-18 第44期 高效营销布局不可或缺的3大营销领域 产品vs品牌vs增长.md
+  ✅ 已保存: wiki/来源/播客/2026-07-19 一个人年入千万，AI创业的十个步骤.md
 
-📹 [CHGtlwY6boQ] LOOKFANTASTIC's Anti-Gatekeeping Strategy: Community Over Product
-   频道: Building Brand Advocacy Podcast | 播放: 65
+📹 [3KD22hENKIo] 从卖货到品牌出海，跨境出口电商行业缺了啥？
+   频道: 亚觅出海Ami Global Research Institute (AGRI)  | 播放: 429
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  yt-dlp ERROR: WARNING: [youtube] 3KD22hENKIo: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-18 LOOKFANTASTIC's Anti-Gatekeeping Strategy: Community Over Pr.md
+  ✅ 已保存: wiki/来源/播客/2026-07-19 从卖货到品牌出海，跨境出口电商行业缺了啥？.md
 
-✅ 完成！成功处理 3/3 个视频
-   累计已处理: 129 个
+📹 [AoELTz1dTNE] 打造独特的品牌出海价值主张
+   频道: 南洋新媒体 NanYang Media | 播放: 16
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] AoELTz1dTNE: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-19 打造独特的品牌出海价值主张.md
+
+✅ 完成！成功处理 4/4 个视频
+   累计已处理: 133 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-07-19T05:19:30.310580
+运行时间: 2026-07-20T05:36:59.074393
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 129 个
+已处理视频: 133 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,43 +25,52 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 4 个
+📊 本次待处理新视频: 5 个
 
-📹 [rzbXht7MJVM] How to create a great brand name | Jonathan Bell
-   频道: TED Archive | 播放: 3450780
+📹 [6V4y0AX69h4] the psychology of building a brand everyone loves
+   频道: Matt Gray | 播放: 375280
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] rzbXht7MJVM: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-19 How to create a great brand name | Jonathan Bell.md
+  ✅ 已保存: wiki/来源/播客/2026-07-20 the psychology of building a brand everyone loves.md
 
-📹 [4CUqeauH3-4] 一个人年入千万，AI创业的十个步骤
-   频道: 程前朋友圈 | 播放: 252343
+📹 [kHzxiNxq124] Responsibility vs. Accountability vs. OWNERSHIP | Team Performance | HR and Business Leaders
+   频道: Qualigence International | 播放: 206718
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] 4CUqeauH3-4: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-19 一个人年入千万，AI创业的十个步骤.md
+  ✅ 已保存: wiki/来源/播客/2026-07-20 Responsibility vs. Accountability vs. OWNERSHIP | Team Perfo.md
 
-📹 [3KD22hENKIo] 从卖货到品牌出海，跨境出口电商行业缺了啥？
-   频道: 亚觅出海Ami Global Research Institute (AGRI)  | 播放: 429
+📹 [OUPxlN8NiBg] Top Marketing Strategies to Grow Your Construction Business
+   频道: Jesse Lane | 播放: 40023
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] 3KD22hENKIo: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-19 从卖货到品牌出海，跨境出口电商行业缺了啥？.md
+  ✅ 已保存: wiki/来源/播客/2026-07-20 Top Marketing Strategies to Grow Your Construction Business.md
 
-📹 [AoELTz1dTNE] 打造独特的品牌出海价值主张
-   频道: 南洋新媒体 NanYang Media | 播放: 16
+📹 [0i7G5Hm1i-c] “错得越快，成长越快！” ► 17岁创业卖行车记录仪，营收3亿！- Dasher 联合创办人 Wei Kheng
+   频道: 后起之秀 Rising Podcast | 播放: 25421
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] AoELTz1dTNE: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-07-19 打造独特的品牌出海价值主张.md
+  ✅ 已保存: wiki/来源/播客/2026-07-20 “错得越快，成长越快！” ► 17岁创业卖行车记录仪，营收3亿！- Dasher 联合创办人 Wei Kheng.md
 
-✅ 完成！成功处理 4/4 个视频
-   累计已处理: 133 个
+📹 [kAG7WuYeDE0] 硅谷顶级投资人手把手教创始人如何达成与资本合作的价值最大化！
+   频道: InnoQuark炼金师 | 播放: 59
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-20 硅谷顶级投资人手把手教创始人如何达成与资本合作的价值最大化！.md
+
+✅ 完成！成功处理 5/5 个视频
+   累计已处理: 138 个

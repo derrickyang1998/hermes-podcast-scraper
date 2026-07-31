@@ -1,5 +1,5 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-07-30T04:55:49.944286
+运行时间: 2026-07-31T05:33:06.310228
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
 已处理视频: 153 个
@@ -25,7 +25,43 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 0 个
+📊 本次待处理新视频: 4 个
 
-✅ 完成！成功处理 0/0 个视频
-   累计已处理: 153 个
+📹 [BSgGIcLA41E] 從「全港公敵」到「資本大鱷」；深度揭祕謝霆鋒價值60億的商業帝國！｜地產投資｜資本運作｜電商｜創業｜IP
+   频道: 藝哥商業故事 | 播放: 437077
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-31 從「全港公敵」到「資本大鱷」；深度揭祕謝霆鋒價值60億的商業帝國！｜地產投資｜資本運作｜電商｜創業｜IP.md
+
+📹 [76rR68ktQvo] Building a Software Powerhouse with No VC Money | DHH, 37signals
+   频道: David Senra | 播放: 41461
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-31 Building a Software Powerhouse with No VC Money | DHH, 37sig.md
+
+📹 [dsJpJ2O-PfA] what they don’t teach you in business school
+   频道: Bob Verlaat | 播放: 7765
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-31 what they don’t teach you in business school.md
+
+📹 [-0YJ4dsyuDU] CrossRoads Ep.35: Leapmotor's Zhu Jiangming: Ten Years of Silence, Ten Years of Steel
+   频道: 罗永浩的十字路口 | 播放: 420
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-07-31 CrossRoads Ep.35: Leapmotor's Zhu Jiangming: Ten Years of Si.md
+
+✅ 完成！成功处理 4/4 个视频
+   累计已处理: 157 个

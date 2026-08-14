@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-08-13T04:08:41.537803
+运行时间: 2026-08-14T04:05:14.279287
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 178 个
+已处理视频: 179 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,34 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 3 个
 
-📹 [bCe14uhhm88] How to Build a Business Before You Feel Ready: Krissy Cela on the Success of Oner Active
-   频道: Emma Grede and Krissy Cela | 播放: 58602
+📹 [W_ljqClCcPw] He Started In His Bedroom… Now His Brand Makes $140M/Year | George Heaton
+   频道: School of Hard Knocks Podcast | 播放: 14839
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-08-13 How to Build a Business Before You Feel Ready: Krissy Cela o.md
+  ✅ 已保存: wiki/来源/播客/2026-08-14 He Started In His Bedroom… Now His Brand Makes $140M/Year | .md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 179 个
+📹 [rwr4LyQwSOo] Satya Nadella on purpose, culture and growth mindset
+   频道: avvedpuriswar | 播放: 12142
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-08-14 Satya Nadella on purpose, culture and growth mindset.md
+
+📹 [LK7kmE04FsI] 【赚人生中第一个一万美元】创业者賺錢 ｜打工到百万美元｜普通打工人创业避坑指南 ｜創業者如何啟動 ｜普通打工人創業避坑指南 ｜#生意思维 #赚钱 #创业 #创业
+   频道: 奥克兰成事哥 | 聊商业 | 播放: 236
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-08-14 【赚人生中第一个一万美元】创业者賺錢 ｜打工到百万美元｜普通打工人创业避坑指南 ｜創業者如何啟動 ｜普通打工人創業避坑指.md
+
+✅ 完成！成功处理 3/3 个视频
+   累计已处理: 182 个

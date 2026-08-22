@@ -1,5 +1,5 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-08-21T02:58:54.721448
+运行时间: 2026-08-22T02:50:38.888334
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
 已处理视频: 194 个
@@ -25,7 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 0 个
+📊 本次待处理新视频: 1 个
 
-✅ 完成！成功处理 0/0 个视频
-   累计已处理: 194 个
+📹 [gtD9mj9RWx8] 與Son對話 | 李俊亨 Henry | 與鍾培生瓜葛的始末 |  富二代的底氣 | 不要跟一頭豬比 | 做不成飛機師做金銀？ | 張慧敏 | 職場慧眼 | 中文字幕 (AI自動)
+   频道: 張慧敏Son姐話 | 播放: 8083
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-08-22 與Son對話 | 李俊亨 Henry | 與鍾培生瓜葛的始末 |  富二代的底氣 | 不要跟一頭豬比 | 做不成飛機師做.md
+
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 195 个

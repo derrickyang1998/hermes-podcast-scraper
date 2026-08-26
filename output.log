@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-08-25T02:55:04.815188
+运行时间: 2026-08-26T03:00:59.654744
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 199 个
+已处理视频: 200 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,25 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 2 个
 
-📹 [LGGzE1x7nus] How to build your Brand (literally what I did)
-   频道: Ryan Serhant | 播放: 154245
+📹 [C5WYoNE6U_0] The Art of Being Tastefully Unhinged | Sr Director of Brand Marketing @Duolingo, Kat Chan
+   频道: Chloe Shih | 播放: 5146
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-08-25 How to build your Brand (literally what I did).md
+  ✅ 已保存: wiki/来源/播客/2026-08-26 The Art of Being Tastefully Unhinged | Sr Director of Brand .md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 200 个
+📹 [3zQVCL62g0E] “去养老院就是等死？”  ▶ 马来西亚银发经济，未来到底在哪里？- SilverGenz 创办人 Stacey Lim
+   频道: Business Inside Out 企业进化论 | 播放: 37
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-08-26 “去养老院就是等死？”  ▶ 马来西亚银发经济，未来到底在哪里？- SilverGenz 创办人 Stacey Lim.md
+
+✅ 完成！成功处理 2/2 个视频
+   累计已处理: 202 个

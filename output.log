@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-02T06:46:23.252097
+运行时间: 2026-09-03T06:49:13.388879
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 208 个
+已处理视频: 209 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,25 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 2 个
 
-📹 [my_lMhlKLVk] 大厂技术人创业，最容易踩的三个坑｜硅谷一线投资人周楠
-   频道: 课代表立正 | 播放: 629
+📹 [Nlwj8YGWTVE] 【创业者必看的3个避坑】创业者的3大陷阱 ｜赚钱变现 ｜一定要注意这三大陷阱 ｜生意收入翻倍 ｜创业，副业之避坑指南 ｜創業者的3大陷阱｜賺錢變現｜一定要注意這三大陷阱｜創業、副業之避坑指南
+   频道: 奥克兰成事哥 | 聊商业 | 播放: 2319
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] my_lMhlKLVk: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-02 大厂技术人创业，最容易踩的三个坑｜硅谷一线投资人周楠.md
+  ✅ 已保存: wiki/来源/播客/2026-09-03 【创业者必看的3个避坑】创业者的3大陷阱 ｜赚钱变现 ｜一定要注意这三大陷阱 ｜生意收入翻倍 ｜创业，副业之避坑指南 ｜.md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 209 个
+📹 [l4a5LHHjLCA] 【希爾思維】獨一無二的成功方程式：做生意要有USP！  #希爾思維 #創業 #品牌建設
+   频道: 希爾思維 | 播放: 809
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-03 【希爾思維】獨一無二的成功方程式：做生意要有USP！  #希爾思維 #創業 #品牌建設.md
+
+✅ 完成！成功处理 2/2 个视频
+   累计已处理: 211 个

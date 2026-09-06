@@ -1,5 +1,5 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-05T06:39:00.987181
+运行时间: 2026-09-06T06:50:10.809216
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
 已处理视频: 213 个
@@ -25,7 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 0 个
+📊 本次待处理新视频: 1 个
 
-✅ 完成！成功处理 0/0 个视频
-   累计已处理: 213 个
+📹 [ghNmFMy-ZFU] Uniqlo 創始人 “當第一名，什麽第一都可以！” 優衣庫 日本首富，柳井正 ｜📚說書 《 一勝九敗 》优衣库 孫正義 孙正义 個人成長 个人成长 創業 企業家 创业 企业家
+   频道: 996創業家造雨俠 | 播放: 103717
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-06 Uniqlo 創始人 “當第一名，什麽第一都可以！” 優衣庫 日本首富，柳井正 ｜📚說書 《 一勝九敗 》优衣库 孫正義.md
+
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 214 个

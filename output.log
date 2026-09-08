@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-07T06:58:09.593837
+运行时间: 2026-09-08T06:53:09.633378
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 214 个
+已处理视频: 216 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -27,23 +27,23 @@ YouTube Podcast Scraper v1.0
 
 📊 本次待处理新视频: 2 个
 
-📹 [XwawXRaNfzM] How To Get Promoted Faster: Career Growth & Leadership Secrets | Sauvik Banerjjee |FO558 Raj Shamani
-   频道: Raj Shamani and Sauvik Banerjjee | 播放: 487993
+📹 [g7qcMNyL7Nk] Parul Gulati’s Brand Building Masterclass - Nish Hair, Personal Brand And Leadership | Restless
+   频道: Ayush Shukla | 播放: 46562
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] XwawXRaNfzM: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-07 How To Get Promoted Faster: Career Growth & Leadership Secre.md
+  ✅ 已保存: wiki/来源/播客/2026-09-08 Parul Gulati’s Brand Building Masterclass - Nish Hair, Perso.md
 
-📹 [7Uvlrnzq5vg] 24岁建筑师创业开三文治店 ► 开店开到非洲？- Toast Maker 创办人 Hagen
-   频道: 后起之秀 Rising Podcast | 播放: 22451
+📹 [25Efj65dg6I] Yeahmobi Talk Show: 跨境电商品牌化的价值体现
+   频道: Yeahmobi | 播放: 87
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] 7Uvlrnzq5vg: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-07 24岁建筑师创业开三文治店 ► 开店开到非洲？- Toast Maker 创办人 Hagen.md
+  ✅ 已保存: wiki/来源/播客/2026-09-08 Yeahmobi Talk Show: 跨境电商品牌化的价值体现.md
 
 ✅ 完成！成功处理 2/2 个视频
-   累计已处理: 216 个
+   累计已处理: 218 个

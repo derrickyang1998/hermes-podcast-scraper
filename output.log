@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-09T07:02:08.952761
+运行时间: 2026-09-10T06:58:37.285699
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 218 个
+已处理视频: 222 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,43 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 4 个
+📊 本次待处理新视频: 1 个
 
-📹 [_2H7OlHkv1w] How to Build a Marketing Funnel that Actually Works for your Business
-   频道: HubSpot Marketing | 播放: 96429
+📹 [349td3AeWpo] 刘丰、杨凤池 对话 （上）生命底蕴的显现
+   频道: 刘丰老师海外频道（理论内容发布） | 播放: 124
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-09 How to Build a Marketing Funnel that Actually Works for your.md
+  ✅ 已保存: wiki/来源/播客/2026-09-10 刘丰、杨凤池 对话 （上）生命底蕴的显现.md
 
-📹 [g92xkqrHRDg] 第45期 品牌营销的4步发展框架
-   频道: 南洋大师兄 | 播放: 3889
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-09 第45期 品牌营销的4步发展框架.md
-
-📹 [eo8BN7Wsmj0] How to Grow Your Brand with Podcast Interviews
-   频道: Interview Valet | 播放: 13
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-09 How to Grow Your Brand with Podcast Interviews.md
-
-📹 [wPyp1pMlZms] From Franchise Owner to Brand President: The Power of Building People | Rob White
-   频道: Madeleine MacRae | 播放: 3
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-09 From Franchise Owner to Brand President: The Power of Buildi.md
-
-✅ 完成！成功处理 4/4 个视频
-   累计已处理: 222 个
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 223 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-10T06:58:37.285699
+运行时间: 2026-09-11T06:58:08.508898
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 222 个
+已处理视频: 223 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,52 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 5 个
 
-📹 [349td3AeWpo] 刘丰、杨凤池 对话 （上）生命底蕴的显现
-   频道: 刘丰老师海外频道（理论内容发布） | 播放: 124
+📹 [kQe6Wvh_2EM] 越專業越留在基層？破除傳統升遷迷思，老闆及主管必學的職場能力是這些 ft. 聯聖企管顧問 陳宗賢
+   频道: 西索 Celso | 播放: 288232
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-10 刘丰、杨凤池 对话 （上）生命底蕴的显现.md
+  ✅ 已保存: wiki/来源/播客/2026-09-11 越專業越留在基層？破除傳統升遷迷思，老闆及主管必學的職場能力是這些 ft. 聯聖企管顧問 陳宗賢.md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 223 个
+📹 [L9KvV_UOs3A] Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo
+   频道: Lenny's Podcast | 播放: 181337
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-11 Solo founder, $80M exit, 6 months: The Base44 bootstrapped s.md
+
+📹 [x60gG9zi0bI] 5 Proven Social Media Marketing Strategies to Grow ANY Business
+   频道: Adam Erhart | 播放: 116566
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-11 5 Proven Social Media Marketing Strategies to Grow ANY Busin.md
+
+📹 [nGLmpKi-jRU] Startup Advice: AI GTM, Pivoting & How To Hire
+   频道: Y Combinator | 播放: 55262
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-11 Startup Advice: AI GTM, Pivoting & How To Hire.md
+
+📹 [60AVuVI1Uvk] Benefits of Using Podcast Interviews in Brand Building
+   频道: Robert Thibodeau | 播放: 7
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-11 Benefits of Using Podcast Interviews in Brand Building.md
+
+✅ 完成！成功处理 5/5 个视频
+   累计已处理: 228 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-14T07:33:20.754183
+运行时间: 2026-09-15T07:09:04.059129
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 234 个
+已处理视频: 237 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,34 +25,43 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 3 个
+📊 本次待处理新视频: 4 个
 
-📹 [iXjhNZlqexs] How Liquid Death's Founder Started A $700 Million Water Brand | Founder Effect
-   频道: CNBC Make It | 播放: 2468415
+📹 [2g2jSa8os40] 10个跨境独立站，9个都失败？
+   频道: Forest李 | 品牌出海小李总 | 播放: 124936
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-14 How Liquid Death's Founder Started A $700 Million Water Bran.md
+  ✅ 已保存: wiki/来源/播客/2026-09-15 10个跨境独立站，9个都失败？.md
 
-📹 [KtrXzDk0dls] EP17｜Starting a side hustle at 24: From knowing nothing about skincare to building CLEF into an R...
-   频道: CEO CIRCLE CLUB | 播放: 7675
+📹 [dMbwRcxnpr0] 为什么流量越来越贵，你的产品却越卖越便宜？ ｜ 品牌出海 独立站 跨境电商 #品牌出海 #独立站 #跨境电商
+   频道: 咔咔的老吴 | 播放: 644
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-14 EP17｜Starting a side hustle at 24: From knowing nothing abou.md
+  ✅ 已保存: wiki/来源/播客/2026-09-15 为什么流量越来越贵，你的产品却越卖越便宜？ ｜ 品牌出海 独立站 跨境电商 #品牌出海 #独立站 #跨境电商.md
 
-📹 [duMMsVcLNbk] 企业家在竞争战略执行过程中最大的困惑是什么
-   频道: 聊聊 TalkTalk | 播放: 32
+📹 [FIE5JgAhISo] 刘丰、杨磊对话（上）：全息逻辑与中医智慧
+   频道: 刘丰老师海外频道（理论内容发布） | 播放: 227
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-14 企业家在竞争战略执行过程中最大的困惑是什么.md
+  ✅ 已保存: wiki/来源/播客/2026-09-15 刘丰、杨磊对话（上）：全息逻辑与中医智慧.md
 
-✅ 完成！成功处理 3/3 个视频
-   累计已处理: 237 个
+📹 [TG6EqMXzLA8] 老板只会做事，救不了公司｜Allen Chin创业17年的教训 EP4 下半集 #004 #chilltalk #创业 #团队管理  #马来西亚老板 #一着制胜
+   频道: 一着制胜 The Real Decision  | 播放: 1
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-15 老板只会做事，救不了公司｜Allen Chin创业17年的教训 EP4 下半集 #004 #chilltalk #创业 .md
+
+✅ 完成！成功处理 4/4 个视频
+   累计已处理: 241 个

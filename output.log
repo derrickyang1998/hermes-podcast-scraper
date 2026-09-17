@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-16T07:10:40.637396
+运行时间: 2026-09-17T07:07:43.279543
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 241 个
+已处理视频: 243 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,25 +25,34 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 2 个
+📊 本次待处理新视频: 3 个
 
-📹 [J7daCRRI58Q] 人一定要有自己生意，哪怕从挣1元开始~ #赚钱 #强者思维 #副业  #财富 #认知觉醒 #个人成长 #智慧
-   频道: 谋略真经 | 播放: 5321
+📹 [smZe3eKgjTQ] Andrew Rosen Built Theory and Backed SKIMS – Here’s What He’d Tell Every Founder
+   频道: Emma Grede | 播放: 23588
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-16 人一定要有自己生意，哪怕从挣1元开始~ #赚钱 #强者思维 #副业  #财富 #认知觉醒 #个人成长 #智慧.md
+  ✅ 已保存: wiki/来源/播客/2026-09-17 Andrew Rosen Built Theory and Backed SKIMS – Here’s What He’.md
 
-📹 [r63Lw_reWJM] EP.53｜我有一個理想：讓沒錢的人也能學習｜為後來的人，鑽出通往明天的路
-   频道: 大仁來開槓 | 播放: 1097
+📹 [3C-5yQ4Qau4] Founder Personal Branding | How to Build a Powerful Personal Brand That Drives Business Success
+   频道: Brandville Group | 播放: 175
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-16 EP.53｜我有一個理想：讓沒錢的人也能學習｜為後來的人，鑽出通往明天的路.md
+  ✅ 已保存: wiki/来源/播客/2026-09-17 Founder Personal Branding | How to Build a Powerful Personal.md
 
-✅ 完成！成功处理 2/2 个视频
-   累计已处理: 243 个
+📹 [htRDpmBr7y0] Brand Building Over Founder Story: Growth Strategies | Carly Osman Holme, Founder of Sprowt
+   频道: The FreeMind Group | 播放: 2
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-17 Brand Building Over Founder Story: Growth Strategies | Carly.md
+
+✅ 完成！成功处理 3/3 个视频
+   累计已处理: 246 个

@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-19T06:59:51.999193
+运行时间: 2026-09-20T07:25:03.405423
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 247 个
+已处理视频: 249 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -27,23 +27,23 @@ YouTube Podcast Scraper v1.0
 
 📊 本次待处理新视频: 2 个
 
-📹 [ENqI4Ekijyo] Scaling a Business Without Losing Your Brand: Gara Post on Growth, Earned Media & Franchise Strategy
-   频道: Dear FoundHer... | 播放: 34
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: ERROR: [youtube] ENqI4Ekijyo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-19 Scaling a Business Without Losing Your Brand: Gara Post on G.md
-
-📹 [h_Bz-IOdDV4] #65 - From Rumors to Recognition: Lessons in Branding and Business Growth with Curtis McCoy
-   频道: Mark Talukdar | 播放: 9
+📹 [vd_oYgwQSBM] 一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！
+   频道: 课代表立正 | 播放: 168298
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-19 #65 - From Rumors to Recognition: Lessons in Branding and Bu.md
+  ✅ 已保存: wiki/来源/播客/2026-09-20 一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！.md
+
+📹 [-FdyprpDVVw] 刘丰、杨凤池 对话 （下）生命天赋的绽放
+   频道: 刘丰老师海外频道（理论内容发布） | 播放: 903
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-20 刘丰、杨凤池 对话 （下）生命天赋的绽放.md
 
 ✅ 完成！成功处理 2/2 个视频
-   累计已处理: 249 个
+   累计已处理: 251 个

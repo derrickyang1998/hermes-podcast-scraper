@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-20T07:25:03.405423
+运行时间: 2026-09-21T07:35:31.170258
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 249 个
+已处理视频: 251 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,25 +25,43 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 2 个
+📊 本次待处理新视频: 4 个
 
-📹 [vd_oYgwQSBM] 一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！
-   频道: 课代表立正 | 播放: 168298
+📹 [NQN4mtTagL0] What Makes a Leader Great?
+   频道: Simon Sinek | 播放: 1144952
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-20 一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！.md
+  ✅ 已保存: wiki/来源/播客/2026-09-21 What Makes a Leader Great?.md
 
-📹 [-FdyprpDVVw] 刘丰、杨凤池 对话 （下）生命天赋的绽放
-   频道: 刘丰老师海外频道（理论内容发布） | 播放: 903
+📹 [CLLcSijH6js] How to develop a strategy that wins in competitive markets | Roger Martin
+   频道: Growth Manifesto Podcast | 播放: 246387
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-20 刘丰、杨凤池 对话 （下）生命天赋的绽放.md
+  ✅ 已保存: wiki/来源/播客/2026-09-21 How to develop a strategy that wins in competitive markets |.md
 
-✅ 完成！成功处理 2/2 个视频
-   累计已处理: 251 个
+📹 [_3EXdXV8hs8] #酌见 #俞敏洪 对话#王中军 :电影人是我在这个时代的痕迹
+   频道: KoalaTV | 播放: 57772
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-21 #酌见 #俞敏洪 对话#王中军 :电影人是我在这个时代的痕迹.md
+
+📹 [nAsThqAYtDM] Your Brand Story: How to Build a Business People Remember
+   频道: Nasdaq Entrepreneurial Center | 播放: 93
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-21 Your Brand Story: How to Build a Business People Remember.md
+
+✅ 完成！成功处理 4/4 个视频
+   累计已处理: 255 个

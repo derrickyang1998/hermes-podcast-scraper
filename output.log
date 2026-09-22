@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-21T07:35:31.170258
+运行时间: 2026-09-22T07:15:24.441907
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 251 个
+已处理视频: 255 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,43 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 4 个
+📊 本次待处理新视频: 1 个
 
-📹 [NQN4mtTagL0] What Makes a Leader Great?
-   频道: Simon Sinek | 播放: 1144952
+📹 [dNWkwrqAkcM] The Man Who Invented Modern Marketing: How To Build A Brand That SELLS In The New Era Of AI (3 Laws)
+   频道: The Calum Johnson Show | 播放: 30295
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  yt-dlp ERROR: WARNING: [youtube] dNWkwrqAkcM: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-21 What Makes a Leader Great?.md
+  ✅ 已保存: wiki/来源/播客/2026-09-22 The Man Who Invented Modern Marketing: How To Build A Brand .md
 
-📹 [CLLcSijH6js] How to develop a strategy that wins in competitive markets | Roger Martin
-   频道: Growth Manifesto Podcast | 播放: 246387
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-21 How to develop a strategy that wins in competitive markets |.md
-
-📹 [_3EXdXV8hs8] #酌见 #俞敏洪 对话#王中军 :电影人是我在这个时代的痕迹
-   频道: KoalaTV | 播放: 57772
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-21 #酌见 #俞敏洪 对话#王中军 :电影人是我在这个时代的痕迹.md
-
-📹 [nAsThqAYtDM] Your Brand Story: How to Build a Business People Remember
-   频道: Nasdaq Entrepreneurial Center | 播放: 93
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-21 Your Brand Story: How to Build a Business People Remember.md
-
-✅ 完成！成功处理 4/4 个视频
-   累计已处理: 255 个
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 256 个

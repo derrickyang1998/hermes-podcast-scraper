@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-22T07:15:24.441907
+运行时间: 2026-09-23T07:18:21.479953
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 255 个
+已处理视频: 256 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,25 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 2 个
 
-📹 [dNWkwrqAkcM] The Man Who Invented Modern Marketing: How To Build A Brand That SELLS In The New Era Of AI (3 Laws)
-   频道: The Calum Johnson Show | 播放: 30295
+📹 [eamOnTkWN7s] The Truth About Personal Branding for Small Business Owners
+   频道: The Best of Business with Anna Stella | 播放: 5874
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] dNWkwrqAkcM: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-22 The Man Who Invented Modern Marketing: How To Build A Brand .md
+  ✅ 已保存: wiki/来源/播客/2026-09-23 The Truth About Personal Branding for Small Business Owners.md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 256 个
+📹 [FX9fMBI3q3E] 刘丰老师、马家慈对话：中医实践与理论
+   频道: 刘丰老师海外频道（理论内容发布） | 播放: 759
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-09-23 刘丰老师、马家慈对话：中医实践与理论.md
+
+✅ 完成！成功处理 2/2 个视频
+   累计已处理: 258 个

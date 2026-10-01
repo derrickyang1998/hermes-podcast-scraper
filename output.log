@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-09-30T07:55:17.022397
+运行时间: 2026-10-01T08:16:28.146953
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 267 个
+已处理视频: 269 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -27,23 +27,23 @@ YouTube Podcast Scraper v1.0
 
 📊 本次待处理新视频: 2 个
 
-📹 [5RTFMlvbOG0] Rich People Stopped Grinding & Learned This Instead | Shelby Sapp
-   频道: Jay Shetty Podcast | 播放: 1057258
+📹 [z3iynj6zXOM] S02E02 Creating a Category While Building a Compelling Strategic Asset | Steve Wasik
+   频道: On The Entrepreneur's Journey Podcast | 播放: 8
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-30 Rich People Stopped Grinding & Learned This Instead | Shelby.md
+  ✅ 已保存: wiki/来源/播客/2026-10-01 S02E02 Creating a Category While Building a Compelling Strat.md
 
-📹 [OpANpfEjNw8] How I Make $1.2 Million A Year From This Podcast | E94
-   频道: The Diary Of A CEO | 播放: 530329
+📹 [T6oDTKO1ll8] EP-206 CEO Secrets to High-Growth Scaling - Mike Grossman
+   频道: Unconventional Path: Entrepreneurship & Innovation | 播放: 1
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-09-30 How I Make $1.2 Million A Year From This Podcast | E94.md
+  ✅ 已保存: wiki/来源/播客/2026-10-01 EP-206 CEO Secrets to High-Growth Scaling - Mike Grossman.md
 
 ✅ 完成！成功处理 2/2 个视频
-   累计已处理: 269 个
+   累计已处理: 271 个

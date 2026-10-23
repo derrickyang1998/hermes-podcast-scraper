@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-10-22T07:02:32.773129
+运行时间: 2026-10-23T06:54:44.425549
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 325 个
+已处理视频: 327 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,25 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 2 个
+📊 本次待处理新视频: 1 个
 
-📹 [IuoscQiQQLg] The Underdog: He Turned His Last $4,000 Into $48M
-   频道: Starter Story | 播放: 1529524
+📹 [ryAoZi092wI] How to Build a Wellness Brand From Scratch | Jennifer's Founder Story
+   频道: partnrUP | 播放: 5
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-10-22 The Underdog: He Turned His Last $4,000 Into $48M.md
+  ✅ 已保存: wiki/来源/播客/2026-10-23 How to Build a Wellness Brand From Scratch | Jennifer's Foun.md
 
-📹 [anAmTGcewX8] Sam Altman, Co-Founder and CEO of OpenAI: Staying Human While Scaling Superintelligence
-   频道: Stanford Graduate School of Business | 播放: 13500
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-10-22 Sam Altman, Co-Founder and CEO of OpenAI: Staying Human Whil.md
-
-✅ 完成！成功处理 2/2 个视频
-   累计已处理: 327 个
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 328 个

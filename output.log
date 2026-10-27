@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-10-26T07:22:51.022348
+运行时间: 2026-10-27T07:15:14.407631
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 330 个
+已处理视频: 332 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -27,23 +27,23 @@ YouTube Podcast Scraper v1.0
 
 📊 本次待处理新视频: 2 个
 
-📹 [f26xtrVRxjQ] Who knew! My imagination came true, I'm a tycoon, money and beauties, endless laughs and fun!
-   频道: 欣欣看剧 | 播放: 316295
+📹 [HzI4m5jvBkg] 3 years of Building a Fashion Brand in 28 mins
+   频道: Ken Sakata | 播放: 242199
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-10-26 Who knew! My imagination came true, I'm a tycoon, money and .md
+  ✅ 已保存: wiki/来源/播客/2026-10-27 3 years of Building a Fashion Brand in 28 mins.md
 
-📹 [uW4UyN-Mhyc] EP 5 |普通出身，5 年把Kopitiam 打造成上亿上市公司｜Oriental Kopi (华阳）创办人ft. Dato’ Calvin Chan
-   频道: CEO CIRCLE CLUB | 播放: 81436
+📹 [nEkRFdmdcAA] 失業畢業生綁定認知成真系統！別人怎麼看，現實就怎麼變，從 911 起步做成三億投資公司
+   频道: 笑笑看劇 | 播放: 11463
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-10-26 EP 5 |普通出身，5 年把Kopitiam 打造成上亿上市公司｜Oriental Kopi (华阳）创办人ft. D.md
+  ✅ 已保存: wiki/来源/播客/2026-10-27 失業畢業生綁定認知成真系統！別人怎麼看，現實就怎麼變，從 911 起步做成三億投資公司.md
 
 ✅ 完成！成功处理 2/2 个视频
-   累计已处理: 332 个
+   累计已处理: 334 个

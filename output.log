@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-11-02T08:50:26.024475
+运行时间: 2026-11-03T08:58:22.579406
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 344 个
+已处理视频: 348 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,43 +25,16 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 4 个
+📊 本次待处理新视频: 1 个
 
-📹 [aGgCa6wv-cM] 林佑龙：精力，才是企业家的核心竞争力【专访新加坡昇菘集团董事经理林佑龙】接触“微压氧舱”，在AI时代我们拼的不只是努力，而是你是否拥有持续高效的“脑力”#昇菘#林佑龙#企业家访谈#微压氧舱#狮城头条
-   频道: SGheadline狮城头条 | 播放: 54722
+📹 [U3FSFdKQk4s] 对话傅盛：AI时代，当技能变得廉价，普通人靠什么突围？
+   频道: 凯莉彭 Kelly Peng | 播放: 147923
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] aGgCa6wv-cM: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-02 林佑龙：精力，才是企业家的核心竞争力【专访新加坡昇菘集团董事经理林佑龙】接触“微压氧舱”，在AI时代我们拼的不只是努力，.md
+  ✅ 已保存: wiki/来源/播客/2026-11-03 对话傅盛：AI时代，当技能变得廉价，普通人靠什么突围？.md
 
-📹 [1b6qVM0fKbk] In Conversation with Maxinsights: The 250x Growth of an Embodied "Shovel Seller," the Robotics Eg...
-   频道: 硅谷101 | 播放: 14973
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] 1b6qVM0fKbk: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-02 In Conversation with Maxinsights: The 250x Growth of an Embo.md
-
-📹 [oT9cWG8rPoU] 刘丰老师对话孟丹梅|《儒家“形而上”与“形而下”的贯通》
-   频道: 刘丰老师海外频道（理论内容发布） | 播放: 149
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] oT9cWG8rPoU: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-02 刘丰老师对话孟丹梅|《儒家“形而上”与“形而下”的贯通》.md
-
-📹 [5ZPgPYzbJQc] The Power of a Growth Mindset in Business: Unlocking Entrepreneurial Success
-   频道: LNC90limited! | 播放: 5
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] 5ZPgPYzbJQc: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-02 The Power of a Growth Mindset in Business: Unlocking Entrepr.md
-
-✅ 完成！成功处理 4/4 个视频
-   累计已处理: 348 个
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 349 个

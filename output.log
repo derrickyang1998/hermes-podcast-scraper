@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-11-07T08:16:54.549467
+运行时间: 2026-11-08T08:32:26.505094
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 353 个
+已处理视频: 354 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -24,17 +24,10 @@ YouTube Podcast Scraper v1.0
    找到 3 个视频
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
-
-📊 本次待处理新视频: 1 个
-
-📹 [RB2f32-5Ins] 刘润、吴军聊 AI 发展：AI狂飙的硅谷，普通人和企业到底该警惕还是兴奋？
-   频道: 深度对话 DeepTalk | 播放: 98286
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-07 刘润、吴军聊 AI 发展：AI狂飙的硅谷，普通人和企业到底该警惕还是兴奋？.md
-
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 354 个
+Traceback (most recent call last):
+  File "/home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper/scripts/YouTube/scraper.py", line 498, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper/scripts/YouTube/scraper.py", line 453, in main
+    new_videos.sort(key=lambda x: x.get('views', 0), reverse=True)
+TypeError: '<' not supported between instances of 'int' and 'NoneType'

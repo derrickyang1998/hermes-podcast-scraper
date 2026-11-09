@@ -1,5 +1,5 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-11-08T08:32:26.505094
+运行时间: 2026-11-09T09:02:57.679279
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
 已处理视频: 354 个
@@ -24,10 +24,17 @@ YouTube Podcast Scraper v1.0
    找到 3 个视频
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
-Traceback (most recent call last):
-  File "/home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper/scripts/YouTube/scraper.py", line 498, in <module>
-    sys.exit(main())
-             ^^^^^^
-  File "/home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper/scripts/YouTube/scraper.py", line 453, in main
-    new_videos.sort(key=lambda x: x.get('views', 0), reverse=True)
-TypeError: '<' not supported between instances of 'int' and 'NoneType'
+
+📊 本次待处理新视频: 1 个
+
+📹 [2qY8a4pYtw0] From corporate to founder | Authentic branding, business growth & solving complexity | Stephen Dale
+   频道: Bee Formless™ | 播放: 32
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-09 From corporate to founder | Authentic branding, business gro.md
+
+✅ 完成！成功处理 1/1 个视频
+   累计已处理: 355 个

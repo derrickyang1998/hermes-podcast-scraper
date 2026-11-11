@@ -1,5 +1,5 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-11-10T09:12:07.262645
+运行时间: 2026-11-11T08:48:39.781030
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
 已处理视频: 355 个
@@ -25,7 +25,34 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 0 个
+📊 本次待处理新视频: 3 个
 
-✅ 完成！成功处理 0/0 个视频
-   累计已处理: 355 个
+📹 [9eO8FrAh-X8] The Truth About Scaling a Startup
+   频道: Linq | 播放: 10251
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-11 The Truth About Scaling a Startup.md
+
+📹 [9z_iwyykyaw] SharkNinja CEO on turning consumer insights into hit products (Mark Barrocas) | Masters of Scale
+   频道: Masters of Scale and SharkNinja | 播放: 5100
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-11 SharkNinja CEO on turning consumer insights into hit product.md
+
+📹 [3b46Dhzd7ZA] E38 Benedict Zhang：从留学生到量化公司创始人的九年美国路
+   频道: 北美搞钱局 | 播放: 5
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-11 E38 Benedict Zhang：从留学生到量化公司创始人的九年美国路.md
+
+✅ 完成！成功处理 3/3 个视频
+   累计已处理: 358 个

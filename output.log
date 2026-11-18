@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-11-17T10:07:55.695062
+运行时间: 2026-11-18T09:42:14.836807
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 366 个
+已处理视频: 368 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -24,26 +24,10 @@ YouTube Podcast Scraper v1.0
    找到 3 个视频
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
-
-📊 本次待处理新视频: 2 个
-
-📹 [W4oxmZD-Ec0] 真正会赚钱的人，都在做这件事~ #赚钱 #强者思维 #认知觉醒 #财富自由 #商业思维 #智慧
-   频道: 谋略真经 | 播放: 43738
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-17 真正会赚钱的人，都在做这件事~ #赚钱 #强者思维 #认知觉醒 #财富自由 #商业思维 #智慧.md
-
-📹 [33ONVgMsU24] 512: The Poppi Founders Launched a New Brand. Here's What Went Wrong.
-   频道: Business Growth Podcast // Madison Paige | 播放: 0
-    Downloading subtitles (no cookies)...
-  yt-dlp exit code: 1
-  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-  No subtitle files downloaded
-   ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-17 512: The Poppi Founders Launched a New Brand. Here's What We.md
-
-✅ 完成！成功处理 2/2 个视频
-   累计已处理: 368 个
+Traceback (most recent call last):
+  File "/home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper/scripts/YouTube/scraper.py", line 498, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper/scripts/YouTube/scraper.py", line 453, in main
+    new_videos.sort(key=lambda x: x.get('views', 0), reverse=True)
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'

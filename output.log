@@ -1,8 +1,8 @@
 YouTube Podcast Scraper v1.0
-运行时间: 2026-11-19T09:51:02.963605
+运行时间: 2026-11-20T09:37:55.915005
 仓库根目录: /home/runner/work/hermes-podcast-scraper/hermes-podcast-scraper
 
-已处理视频: 368 个
+已处理视频: 369 个
 
 🔍 搜索: 品牌运营 创业故事 企业家 深度访谈
    找到 3 个视频
@@ -25,16 +25,43 @@ YouTube Podcast Scraper v1.0
 🔍 搜索: business growth mindset leadership brand story
    找到 3 个视频
 
-📊 本次待处理新视频: 1 个
+📊 本次待处理新视频: 4 个
 
-📹 [DhLwaoruNCA] Why Self-Marketing Decides Founder Survival? ⚠️ The Minimalist Entrepreneur Part-5
-   频道: Grt Biz Pulse 2.o | 播放: 0
+📹 [nEOjyNF-fbQ] The Future Of Marketing (Do This Before 2027)
+   频道: Grant Owen and orenmeetsworld | 播放: 264128
     Downloading subtitles (no cookies)...
   yt-dlp exit code: 1
   yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
   No subtitle files downloaded
    ⚠️ 无逐字稿（可能没有字幕）
-  ✅ 已保存: wiki/来源/播客/2026-11-19 Why Self-Marketing Decides Founder Survival? ⚠️ The Minimali.md
+  ✅ 已保存: wiki/来源/播客/2026-11-20 The Future Of Marketing (Do This Before 2027).md
 
-✅ 完成！成功处理 1/1 个视频
-   累计已处理: 369 个
+📹 [2EDoFpK0Idw] 能力很強卻管不了人？8個「有效管理技巧」【上集】
+   频道: 就Jon | 播放: 151042
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-20 能力很強卻管不了人？8個「有效管理技巧」【上集】.md
+
+📹 [lQJKohBcwGk] 如何打造可累積的生意模式？解密從基層到管理年收20億的頂尖外商業務心法！ ft. Yuki 黄昭瑛 @sat.knowledge2926 【查理的創業化合物】
+   频道: 查理的創業化合物 | 播放: 84703
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-20 如何打造可累積的生意模式？解密從基層到管理年收20億的頂尖外商業務心法！ ft. Yuki 黄昭瑛 @sat.knowl.md
+
+📹 [c4EDJe1FVG8] Airbnb创业故事：两个刚毕业的设计师，没钱没资源，如何创立1000亿美金的旅游巨头？
+   频道: 查理商业故事 | 播放: 31214
+    Downloading subtitles (no cookies)...
+  yt-dlp exit code: 1
+  yt-dlp ERROR: WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  No subtitle files downloaded
+   ⚠️ 无逐字稿（可能没有字幕）
+  ✅ 已保存: wiki/来源/播客/2026-11-20 Airbnb创业故事：两个刚毕业的设计师，没钱没资源，如何创立1000亿美金的旅游巨头？.md
+
+✅ 完成！成功处理 4/4 个视频
+   累计已处理: 373 个
